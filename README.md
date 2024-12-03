@@ -34,3 +34,8 @@ This project is a full-stack web application built using Next.js and Zustand, al
 4. Apply a discount to the cart to see the updated total
 5. Enjoy your shopping!
 
+## Live API Endpoint
+
+API Endpoint: https://fakestoreapi.com/products
+
+This is the endpoint where we can fetch the data or interact with the backend.
